@@ -10,7 +10,7 @@ This repository contains small educational implementations of common data struct
 - `lab2/` — sorting algorithms
 - `lab3/` — arrays and linked lists in C++
 - `lab4/` — stacks, queues, and linked lists
-- `lab5/` — binary search tree practice
+- `lab5/` — binary search tree
 
 ## Topics Covered
 
@@ -31,13 +31,13 @@ Most examples are standalone scripts.
 ### Python
 Run a file with:
 ```bash
-bash python filename.py
+python filename.py
 ``` 
 
 ### C++
 Compile and run a file with:
 ```bash
-bash g++ filename.cpp -o program ./program
+g++ filename.cpp -o program ./program
 ```
 
 **Redesigned in 2026**
